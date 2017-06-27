@@ -1,0 +1,13 @@
+
+
+#tweets-container {
+  position: absolute;
+  left: 260px;
+  width: 500px;
+  border-radius: 6px;
+  border: 1px solid #000;
+}
+
+#tweets-container h3 {
+  padding-left: 10px;
+}
